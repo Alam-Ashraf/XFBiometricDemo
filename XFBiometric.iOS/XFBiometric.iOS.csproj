@@ -125,6 +125,9 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="Plugin.Fingerprint">
+      <Version>2.1.3</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
@@ -132,5 +135,9 @@
       <Project>{E99A534C-BD08-461A-8F02-FE07C94927F9}</Project>
       <Name>XFBiometric</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cross.jpg" />
+    <BundleResource Include="Resources\success.png" />
   </ItemGroup>
 </Project>
