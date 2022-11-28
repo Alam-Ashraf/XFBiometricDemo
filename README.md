@@ -1,5 +1,10 @@
 # XFBiometricDemo
-Mobile Biometric Authentication
+
+In this article, I’m going to show you how to add Biometric Authentication in Xamarin Forms application.
+
+Now a days most of the mobile applications that use biometric authentication to secure data access. This allows users to authenticate via the fingerprint sensor and the face ID on those devices that have these capabilities.
+
+## You can learn more at : https://learnmobiledevelopment.com/
 
 ![1](https://user-images.githubusercontent.com/48187633/108585351-1fad9b00-736e-11eb-90bb-6c239f1e2d85.png)
 
