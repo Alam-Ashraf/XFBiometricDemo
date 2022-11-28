@@ -1,0 +1,15 @@
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/bin/Debug/netstandard2.0/XFBiometric.deps.json
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/bin/Debug/netstandard2.0/XFBiometric.dll
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/bin/Debug/netstandard2.0/ref/XFBiometric.dll
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/bin/Debug/netstandard2.0/XFBiometric.pdb
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.AssemblyInfoInputs.cache
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.AssemblyInfo.cs
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.csproj.CoreCompileInputs.cache
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.dll
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/ref/XFBiometric.dll
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.pdb
+/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/Debug/netstandard2.0/XFBiometric.csproj.AssemblyReference.cache

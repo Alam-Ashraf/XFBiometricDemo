@@ -1,0 +1,23 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{6F4FE36C-A607-48F7-9CBC-122028C850F0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.android" />
+  <MonoDevelop.Ide.ItemProperties.XFBiometric.Android PreferredExecutionTarget="Android.android" TriggeredFromHotReload="False" />
+  <MonoDevelop.Ide.ItemProperties.XFBiometric.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AF3098B8-8943-49D6-941D-716E529B5B85" TriggeredFromHotReload="False" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFBiometric" expanded="True">
+            <Node name="XFBiometric" expanded="True" />
+            <Node name="XFBiometric.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKlPi/SdP0rQoGS8W8tH/58iJjKvoIDV2mosmYDx+Nnz6lE2znHF369NYhXUIxe5qvIGFeOtNmDvXrLvpk+A+A==",
+  "success": true,
+  "projectFilePath": "/Users/alamgeer/Projects/XFBiometric/XFBiometric.iOS/XFBiometric.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/alamgeer/.nuget/packages/plugin.fingerprint/2.1.5/plugin.fingerprint.2.1.5.nupkg.sha512",
+    "/Users/alamgeer/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/alamgeer/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/alamgeer/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

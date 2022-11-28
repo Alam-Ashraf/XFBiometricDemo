@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alamgeer/Projects/XFBiometric/XFBiometric.iOS/XFBiometric.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/alamgeer/Projects/XFBiometric/XFBiometric.iOS/XFBiometric.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alamgeer/Projects/XFBiometric/XFBiometric.iOS/XFBiometric.iOS.csproj",
+        "projectName": "XFBiometric.iOS",
+        "projectPath": "/Users/alamgeer/Projects/XFBiometric/XFBiometric.iOS/XFBiometric.iOS.csproj",
+        "packagesPath": "/Users/alamgeer/.nuget/packages/",
+        "outputPath": "/Users/alamgeer/Projects/XFBiometric/XFBiometric.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/alamgeer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/alamgeer/Projects/XFBiometric/XFBiometric/XFBiometric.csproj": {
+                "projectPath": "/Users/alamgeer/Projects/XFBiometric/XFBiometric/XFBiometric.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Plugin.Fingerprint": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2515, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/alamgeer/Projects/XFBiometric/XFBiometric/XFBiometric.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alamgeer/Projects/XFBiometric/XFBiometric/XFBiometric.csproj",
+        "projectName": "XFBiometric",
+        "projectPath": "/Users/alamgeer/Projects/XFBiometric/XFBiometric/XFBiometric.csproj",
+        "packagesPath": "/Users/alamgeer/.nuget/packages/",
+        "outputPath": "/Users/alamgeer/Projects/XFBiometric/XFBiometric/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alamgeer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Plugin.Fingerprint": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2515, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
